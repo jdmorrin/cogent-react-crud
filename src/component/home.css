@@ -1,0 +1,33 @@
+.user-list-div{
+    background-color: deepskyblue;
+    margin: 100px 200px 300px 200px;
+    padding: 20px 60px;
+    border-radius: 30px;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
+    border-radius: 25px;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
+    border-radius: 25px;
+}
+.list-group-item{
+    height: 70px;
+}
+/* .px-4{
+    height: 100%;
+} */
+.list-group-item button{
+    margin: 0% 10% 0% 10%;
+}
+.table tr{
+    height: 70px;
+}
+img{
+    height: 100%;
+    width: 70px;
+    border-radius: 50%;
+}

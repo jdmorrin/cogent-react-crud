@@ -1,0 +1,15 @@
+form{
+    background-color: deepskyblue;
+    margin: 100px 600px 300px 600px;
+    padding: 50px;
+    border-radius: 30px;
+}
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+}

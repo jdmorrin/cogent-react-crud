@@ -1,0 +1,10 @@
+.user-details-table{
+    background-color: deepskyblue;
+    margin: 100px 25% 300px 25%;
+    padding: 20px 60px;
+    border-radius: 30px;
+}
+
+.list-group-item{
+    font-size: larger;
+}
