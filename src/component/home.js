@@ -86,12 +86,12 @@ function Home(){
                             </td>
                             <td>
                                 <Link to={`user/${user.id}`}>
-                                    <button className='btn btn-light'>Show Details</button>
+                                    <button className='btn btn-dark'>Show Details</button>
                                 </Link>
                             </td>
                             <td>
                                 <Link to={`edit/${user.id}`}>
-                                    <button onClick={editUser} className='btn btn-light'>Edit</button>
+                                    <button onClick={editUser} className='btn btn-dark'>Edit</button>
                                 </Link>
                                 <button onClick={()=>deleteUser(user.id)} className='btn btn-danger'>Delete</button>
                             </td>

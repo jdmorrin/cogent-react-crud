@@ -7,6 +7,8 @@ form{
 
 h3{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: beige;
+    border-radius: 25px;
 }
 
 label{

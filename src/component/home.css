@@ -1,5 +1,5 @@
 .user-list-div{
-    background-color: deepskyblue;
+    background-color: lightskyblue;
     margin: 100px 200px 300px 200px;
     padding: 20px 60px;
     border-radius: 30px;
@@ -11,7 +11,7 @@ h3{
 }
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: aqua;
+    background-color: beige;
     border-radius: 25px;
 }
 .list-group-item{
@@ -25,9 +25,14 @@ h1{
 }
 .table tr{
     height: 70px;
+    background-color: beige;
 }
-img{
+.table tr td{
     height: 100%;
+}
+
+img{
+    height: 70px;
     width: 70px;
     border-radius: 50%;
 }
